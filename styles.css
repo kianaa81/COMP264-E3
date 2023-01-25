@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 body{
     background-color: bisque;
     border: 3px solid palevioletred;
+=======
+h1 {
+    color: blueviolet;
+    font-family: 'Times New Roman', Times, serif;
+>>>>>>> feature2
 }
